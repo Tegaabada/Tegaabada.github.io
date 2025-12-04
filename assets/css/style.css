@@ -4,14 +4,14 @@
     /* This template uses a professional "Black + Gold" color scheme. */
     --primary-color: #0A0A0A;   /* Rich Black */
     --secondary-color: #333333; /* Dark Grey */
-    --accent-color: #FFD700;    /* Gold */
+    --accent-color: #FFCE51;    /* Gold */
 
     /* --- Shared Variables (These usually don't need to change) --- */
     --light-bg-color: #FFFBEA;
     --white-color: #ffffff;
     --dark-text-color: #212121;
     --light-text-color: #B0B0B0;
-    --card-bg-color: #111111;
+    --card-bg-color: #ffffff;
     
     /* Fonts */
     --font-heading: 'Headland One', serif;
