@@ -7,11 +7,11 @@
     --accent-color: #FFCE51;    /* Gold */
 
     /* --- Shared Variables (These usually don't need to change) --- */
-    --light-bg-color: #FFFFFF;
+    --light-bg-color: #F2F2F2;
     --white-color: #ffffff;
     --dark-text-color: #212121;
     --light-text-color: #B0B0B0;
-    --card-bg-color: #FFFBEA;
+    --card-bg-color: #FFFFFF;
     
     /* Fonts */
     --font-heading: 'Headland One', serif;
